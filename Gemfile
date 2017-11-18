@@ -17,6 +17,7 @@ gem 'coffee-rails', '~> 4.2'
 # gem 'therubyracer', platforms: :ruby
 
 gem 'sqlite3'
+gem 'activerecord-like'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
